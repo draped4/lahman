@@ -367,7 +367,7 @@ detail and the fields that each contains.
 2.1 MASTER table
 
 
-playerID       A unique code asssigned to each player.  The playerID links
+playerID       A unique code assigned to each player.  The playerID links
                  the data in this file with records in the other files.
 birthYear      Year player was born
 birthMonth     Month player was born
